@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.cryptosk.net/" target="_blank">Cryptosk</a> Official Website**
 
-- 🌱 I’m currently learning **Nextjs, Design Patterns and Algorithms.**
+- 🌱 I’m currently learning **Design Patterns and Algorithms.**
 
 - 📫 How to reach me **mk1319@fayoum.edu.eg**
 
